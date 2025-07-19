@@ -1,6 +1,6 @@
 {
   "home": "Strona główna",
-  "upload": "Wybierz plik",
+  "upload": "Utwórz post",
   "messages": "Wiadomości",
   "recentMessages": "Ostatnie wiadomośći",
   "discover": "Odkryj",
@@ -77,7 +77,7 @@
   "item.voicepack.description": "Dzięki pakietom głosowym nigdy więcej nie poczujesz się samotny!",
   "item.title": "Tytuł",
   "item.title.description": "Musisz dać im znać",
-  "item.backplate": "Backplate",
+  "item.backplate": "Tła tytułów",
   "item.backplate.description": "Spraw by twój tytyuł lśnił!",
   "item.theme": "Motyw",
   "item.theme.description": "Zmień jak Nightlight wygląda!",
@@ -86,7 +86,7 @@
   "inventory.profileDecoration": "Dekoracje",
   "inventory.voicepack": "Pakiety głosowe",
   "inventory.titles": "Tytuły",
-  "inventory.backplates": "Backplates",
+  "inventory.backplates": "Tła tytułów",
   "inventory.themes": "Motywy",
   "profile.posts.liked.status.mutuals": "Ich polubienia postów są ograniczone do osób, które się wzajemnie polubiły. Obserwujcie się nawzajem, aby je zobaczyć.!",
   "profile.posts.liked.status.off": "Mają swoje polubione posty prywatne.",
@@ -99,5 +99,5 @@
   "search.placeholder": "Eksploruj Nightlight..",
   "terms": "Warunki",
   "terms.privacy": "Polityka prywatności",
-  "terms.tos": "Warunki świadczenia usług"
+  "terms.tos": "Warunki korzystania z usługi"
 }
