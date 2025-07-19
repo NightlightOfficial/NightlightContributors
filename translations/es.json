@@ -53,7 +53,7 @@
   "settings.customization": "Personalización",
   "settings.customization.description": "Cambia Nightlight como más te guste",
   "settings.customization.language": "Idioma",
-  "settings.customization.language.description": "Elige en que idioma deseas tener Nightlight (Beta)",
+  "settings.customization.language.description": "Elige en que idioma deseas tener Nightlight (Beta) [Español: @blendroid]",
   "settings.customization.dataSaver": "Ahorro de datos",
   "settings.customization.dataSaver.description": "Carga fotos y gifs a baja calidad",
   "settings.customization.autoplayProfileMusic": "Reproducción automática de la música del perfil",

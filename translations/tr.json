@@ -53,7 +53,7 @@
   "settings.customization": "Özelleştirme",
   "settings.customization.description": "Nightlight'ı istediğin gibi değiştir",
   "settings.customization.language": "Dil",
-  "settings.customization.language.description": "Nightlight'ın hangi dilde gözükeceğini değiştir (Beta)",
+  "settings.customization.language.description": "Nightlight'ın hangi dilde gözükeceğini değiştir (Beta) [Türkçe: @voexx]",
   "settings.customization.dataSaver": "Veri Tasarrufu",
   "settings.customization.dataSaver.description": "Görselleri ve Gifleri düşük kalitede göster",
   "settings.customization.autoplayProfileMusic": "Profil Müziğini otomatik oynat",

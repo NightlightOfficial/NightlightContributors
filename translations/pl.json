@@ -53,7 +53,7 @@
   "settings.customization": "Personalizacja",
   "settings.customization.description": "Zmień Nightlight do swoich potrzeb",
   "settings.customization.language": "Język",
-  "settings.customization.language.description": "Wybierz język, w którym będzie wyświetlany Nightlight (Beta)",
+  "settings.customization.language.description": "Wybierz język, w którym będzie wyświetlany Nightlight (Beta) [Polski: @existing_126]",
   "settings.customization.dataSaver": "Oszczędzacz danych",
   "settings.customization.dataSaver.description": "Wczytuj niską jakość obrazów i gifów",
   "settings.customization.autoplayProfileMusic": "Automatycznie odtwarzaj muzykę profilową",
